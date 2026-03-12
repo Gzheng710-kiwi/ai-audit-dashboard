@@ -47,19 +47,17 @@ This project simulates an enterprise security console where administrators can r
 
 ## Project Structure
 
+```text
 ai-security-audit-dashboard
-│
 ├─ src
-│ ├─ components
-│ │ ├─ Sidebar.jsx
-│ │ ├─ AuditLogTable.jsx
-│ │ ├─ RegistrationForm.jsx
-│ │ └─ PolicySettings.jsx
-│ │
-│ ├─ data.js
-│ ├─ App.jsx
-│ └─ index.css
-│
+│  ├─ components
+│  │  ├─ Sidebar.jsx
+│  │  ├─ AuditLogTable.jsx
+│  │  ├─ RegistrationForm.jsx
+│  │  └─ PolicySettings.jsx
+│  ├─ data.js
+│  ├─ App.jsx
+│  └─ index.css
 ├─ public
 ├─ package.json
 ├─ vite.config.js
@@ -114,5 +112,6 @@ This project demonstrates frontend development for enterprise SaaS dashboards, i
 
 ## Author
 
-Ge Zheng  
+Ge Zheng
 BCIT Computer Systems Technology
+```
