@@ -1,0 +1,14 @@
+site_name: Ge Zheng Portfolio
+
+theme:
+  name: material
+  palette:
+    scheme: slate # 黑色主题（很适合你dashboard项目）
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Resume: resume.md

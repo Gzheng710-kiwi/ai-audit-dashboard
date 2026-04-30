@@ -113,5 +113,5 @@ This project demonstrates frontend development for enterprise SaaS dashboards, i
 ## Author
 
 Ge Zheng
-BCIT Computer Systems Technology
+BCIT CST
 ```
