@@ -90,7 +90,7 @@ export default function AuditLogTable() {
       <div className="bg-white rounded-2xl shadow-sm p-6 border border-slate-100">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
           <div>
-            <h3 className="text-xl font-semibold text-slate-900">
+            <h3 className="text-xl font-semibold text-slate-800">
               Recent Audit Events
             </h3>
             <p className="text-slate-500 mt-1">
